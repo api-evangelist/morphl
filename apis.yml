@@ -55,6 +55,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Releases
+  url: https://github.com/Morphl-AI/MorphL-Community-Edition/releases
+- type: License
+  name: Apache-2.0
+  url: https://github.com/Morphl-AI/MorphL-Community-Edition/blob/master/LICENSE
 - type: Website
   url: https://morphl.ai/
 - type: GitHubOrganization
