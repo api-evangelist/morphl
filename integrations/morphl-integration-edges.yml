@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/morphl/integrations
+- https://n8n.io/integrations/morphl/
+- https://composio.dev/toolkits/morphl
+- https://monid.ai/tools/morphl
+checked:
+- https://composio.dev/toolkits/morphl
+- https://monid.ai/tools/morphl
+- https://n8n.io/integrations/morphl/
+- https://zapier.com/apps/morphl/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
